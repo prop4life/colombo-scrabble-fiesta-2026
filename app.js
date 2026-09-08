@@ -1,4 +1,4 @@
-const CFG={u13:{name:'Under 13',rounds:6,folder:'u13',date:'17 October 2026'},championship:{name:'Championship',rounds:16,folder:'championship',date:'17–18 October 2026'},plate:{name:'Plate / Newbies Category',rounds:7,folder:'plate',date:'18 October 2026'}};
+const CFG={championship:{name:'Championship',rounds:16,folder:'championship',date:'17–18 October 2026'},u13:{name:'Under 13',rounds:6,folder:'u13',date:'17 October 2026'},plate:{name:'Plate / Newbies Category',rounds:7,folder:'plate',date:'18 October 2026'}};
 const REPO='prop4life/colombo-scrabble-fiesta-2026',BRANCH='production';
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const qs=k=>new URLSearchParams(location.search).get(k)||'';
