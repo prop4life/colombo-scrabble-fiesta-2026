@@ -1,16 +1,16 @@
 {
   "event": "plate",
-  "updated": "2026-10-18T07:39:02.055Z",
-  "latestRound": 2,
+  "updated": "2026-10-18T08:49:23.561Z",
+  "latestRound": 3,
   "players": {
     "C62": {
       "id": "C62",
       "name": "NETHULA ABHINAW THANTHIRIGE",
       "rank": 7,
-      "wins": 2,
+      "wins": 3,
       "losses": 0,
       "ties": 0,
-      "spread": 269,
+      "spread": 274,
       "games": [
         {
           "round": 1,
@@ -29,6 +29,15 @@
           "score": 379,
           "oppScore": 310,
           "spread": 69
+        },
+        {
+          "round": 3,
+          "opponentId": "C12",
+          "opponentName": "Tusanda Gagana",
+          "result": "W",
+          "score": 342,
+          "oppScore": 337,
+          "spread": 5
         }
       ],
       "rankHistory": [
@@ -39,17 +48,21 @@
         {
           "round": 2,
           "rank": 7
+        },
+        {
+          "round": 3,
+          "rank": 7
         }
       ]
     },
     "C22": {
       "id": "C22",
       "name": "Seneviratna, Sethupa",
-      "rank": 4,
-      "wins": 2,
+      "rank": 5,
+      "wins": 3,
       "losses": 0,
       "ties": 0,
-      "spread": 308,
+      "spread": 408,
       "games": [
         {
           "round": 1,
@@ -68,6 +81,15 @@
           "score": 351,
           "oppScore": 243,
           "spread": 108
+        },
+        {
+          "round": 3,
+          "opponentId": "C53",
+          "opponentName": "Abeywardena Naadya",
+          "result": "W",
+          "score": 369,
+          "oppScore": 269,
+          "spread": 100
         }
       ],
       "rankHistory": [
@@ -78,17 +100,21 @@
         {
           "round": 2,
           "rank": 4
+        },
+        {
+          "round": 3,
+          "rank": 5
         }
       ]
     },
     "C57": {
       "id": "C57",
       "name": "Dileka Sithsirini",
-      "rank": 3,
+      "rank": 14,
       "wins": 2,
-      "losses": 0,
+      "losses": 1,
       "ties": 0,
-      "spread": 396,
+      "spread": 316,
       "games": [
         {
           "round": 1,
@@ -107,6 +133,15 @@
           "score": 427,
           "oppScore": 231,
           "spread": 196
+        },
+        {
+          "round": 3,
+          "opponentId": "C9",
+          "opponentName": "SURESH HARISH",
+          "result": "L",
+          "score": 351,
+          "oppScore": 431,
+          "spread": -80
         }
       ],
       "rankHistory": [
@@ -117,17 +152,21 @@
         {
           "round": 2,
           "rank": 3
+        },
+        {
+          "round": 3,
+          "rank": 14
         }
       ]
     },
     "C61": {
       "id": "C61",
       "name": "Jenul Anusara",
-      "rank": 19,
+      "rank": 36,
       "wins": 1,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "spread": 188,
+      "spread": -4,
       "games": [
         {
           "round": 1,
@@ -146,6 +185,15 @@
           "score": 326,
           "oppScore": 338,
           "spread": -12
+        },
+        {
+          "round": 3,
+          "opponentId": "C21",
+          "opponentName": "Fernando Dinushka",
+          "result": "L",
+          "score": 297,
+          "oppScore": 489,
+          "spread": -192
         }
       ],
       "rankHistory": [
@@ -156,17 +204,21 @@
         {
           "round": 2,
           "rank": 19
+        },
+        {
+          "round": 3,
+          "rank": 36
         }
       ]
     },
     "C9": {
       "id": "C9",
       "name": "SURESH HARISH",
-      "rank": 11,
-      "wins": 2,
+      "rank": 6,
+      "wins": 3,
       "losses": 0,
       "ties": 0,
-      "spread": 230,
+      "spread": 310,
       "games": [
         {
           "round": 1,
@@ -185,6 +237,15 @@
           "score": 429,
           "oppScore": 399,
           "spread": 30
+        },
+        {
+          "round": 3,
+          "opponentId": "C57",
+          "opponentName": "Dileka Sithsirini",
+          "result": "W",
+          "score": 431,
+          "oppScore": 351,
+          "spread": 80
         }
       ],
       "rankHistory": [
@@ -195,17 +256,21 @@
         {
           "round": 2,
           "rank": 11
+        },
+        {
+          "round": 3,
+          "rank": 6
         }
       ]
     },
     "C6": {
       "id": "C6",
       "name": "KALHARI, LAKSHIKA",
-      "rank": 31,
-      "wins": 1,
+      "rank": 11,
+      "wins": 2,
       "losses": 1,
       "ties": 0,
-      "spread": 14,
+      "spread": 369,
       "games": [
         {
           "round": 1,
@@ -224,6 +289,15 @@
           "score": 277,
           "oppScore": 463,
           "spread": -186
+        },
+        {
+          "round": 3,
+          "opponentId": "C30",
+          "opponentName": "Inaah Muhaiyatheen",
+          "result": "W",
+          "score": 494,
+          "oppScore": 139,
+          "spread": 355
         }
       ],
       "rankHistory": [
@@ -234,17 +308,21 @@
         {
           "round": 2,
           "rank": 31
+        },
+        {
+          "round": 3,
+          "rank": 11
         }
       ]
     },
     "C53": {
       "id": "C53",
       "name": "Abeywardena Naadya",
-      "rank": 12,
+      "rank": 25,
       "wins": 2,
-      "losses": 0,
+      "losses": 1,
       "ties": 0,
-      "spread": 217,
+      "spread": 117,
       "games": [
         {
           "round": 1,
@@ -263,6 +341,15 @@
           "score": 339,
           "oppScore": 315,
           "spread": 24
+        },
+        {
+          "round": 3,
+          "opponentId": "C22",
+          "opponentName": "Seneviratna, Sethupa",
+          "result": "L",
+          "score": 269,
+          "oppScore": 369,
+          "spread": -100
         }
       ],
       "rankHistory": [
@@ -273,17 +360,21 @@
         {
           "round": 2,
           "rank": 12
+        },
+        {
+          "round": 3,
+          "rank": 25
         }
       ]
     },
     "C3": {
       "id": "C3",
       "name": "RUMI REYAL RUQAIYAH",
-      "rank": 2,
-      "wins": 2,
+      "rank": 3,
+      "wins": 3,
       "losses": 0,
       "ties": 0,
-      "spread": 440,
+      "spread": 476,
       "games": [
         {
           "round": 1,
@@ -302,6 +393,15 @@
           "score": 510,
           "oppScore": 257,
           "spread": 253
+        },
+        {
+          "round": 3,
+          "opponentId": "C16",
+          "opponentName": "Gayaruvi De Silva, Sandeki",
+          "result": "W",
+          "score": 317,
+          "oppScore": 281,
+          "spread": 36
         }
       ],
       "rankHistory": [
@@ -312,17 +412,21 @@
         {
           "round": 2,
           "rank": 2
+        },
+        {
+          "round": 3,
+          "rank": 3
         }
       ]
     },
     "C65": {
       "id": "C65",
       "name": "Teshaya Wijesignhe",
-      "rank": 5,
-      "wins": 2,
+      "rank": 4,
+      "wins": 3,
       "losses": 0,
       "ties": 0,
-      "spread": 295,
+      "spread": 419,
       "games": [
         {
           "round": 1,
@@ -341,6 +445,15 @@
           "score": 435,
           "oppScore": 327,
           "spread": 108
+        },
+        {
+          "round": 3,
+          "opponentId": "C14",
+          "opponentName": "Daniel Santhosh Rajeev",
+          "result": "W",
+          "score": 445,
+          "oppScore": 321,
+          "spread": 124
         }
       ],
       "rankHistory": [
@@ -351,17 +464,21 @@
         {
           "round": 2,
           "rank": 5
+        },
+        {
+          "round": 3,
+          "rank": 4
         }
       ]
     },
     "C14": {
       "id": "C14",
       "name": "Daniel Santhosh Rajeev",
-      "rank": 13,
+      "rank": 26,
       "wins": 2,
-      "losses": 0,
+      "losses": 1,
       "ties": 0,
-      "spread": 211,
+      "spread": 87,
       "games": [
         {
           "round": 1,
@@ -380,6 +497,15 @@
           "score": 479,
           "oppScore": 440,
           "spread": 39
+        },
+        {
+          "round": 3,
+          "opponentId": "C65",
+          "opponentName": "Teshaya Wijesignhe",
+          "result": "L",
+          "score": 321,
+          "oppScore": 445,
+          "spread": -124
         }
       ],
       "rankHistory": [
@@ -390,6 +516,10 @@
         {
           "round": 2,
           "rank": 13
+        },
+        {
+          "round": 3,
+          "rank": 26
         }
       ]
     },
@@ -397,10 +527,10 @@
       "id": "C45",
       "name": "Paranagama Udani",
       "rank": 1,
-      "wins": 2,
+      "wins": 3,
       "losses": 0,
       "ties": 0,
-      "spread": 560,
+      "spread": 650,
       "games": [
         {
           "round": 1,
@@ -419,6 +549,15 @@
           "score": 620,
           "oppScore": 223,
           "spread": 397
+        },
+        {
+          "round": 3,
+          "opponentId": "C44",
+          "opponentName": "PATHIRAGE DON DANIDU",
+          "result": "W",
+          "score": 430,
+          "oppScore": 340,
+          "spread": 90
         }
       ],
       "rankHistory": [
@@ -429,17 +568,21 @@
         {
           "round": 2,
           "rank": 1
+        },
+        {
+          "round": 3,
+          "rank": 1
         }
       ]
     },
     "C19": {
       "id": "C19",
       "name": "THIRIMANNA, ONADITH",
-      "rank": 6,
+      "rank": 30,
       "wins": 2,
-      "losses": 0,
+      "losses": 1,
       "ties": 0,
-      "spread": 286,
+      "spread": -6,
       "games": [
         {
           "round": 1,
@@ -458,6 +601,15 @@
           "score": 373,
           "oppScore": 245,
           "spread": 128
+        },
+        {
+          "round": 3,
+          "opponentId": "C8",
+          "opponentName": "Rajapaksha, Tharinda",
+          "result": "L",
+          "score": 169,
+          "oppScore": 461,
+          "spread": -292
         }
       ],
       "rankHistory": [
@@ -468,17 +620,21 @@
         {
           "round": 2,
           "rank": 6
+        },
+        {
+          "round": 3,
+          "rank": 30
         }
       ]
     },
     "C16": {
       "id": "C16",
       "name": "Gayaruvi De Silva, Sandeki",
-      "rank": 10,
+      "rank": 19,
       "wins": 2,
-      "losses": 0,
+      "losses": 1,
       "ties": 0,
-      "spread": 231,
+      "spread": 195,
       "games": [
         {
           "round": 1,
@@ -497,6 +653,15 @@
           "score": 405,
           "oppScore": 321,
           "spread": 84
+        },
+        {
+          "round": 3,
+          "opponentId": "C3",
+          "opponentName": "RUMI REYAL RUQAIYAH",
+          "result": "L",
+          "score": 281,
+          "oppScore": 317,
+          "spread": -36
         }
       ],
       "rankHistory": [
@@ -507,17 +672,21 @@
         {
           "round": 2,
           "rank": 10
+        },
+        {
+          "round": 3,
+          "rank": 19
         }
       ]
     },
     "C40": {
       "id": "C40",
       "name": "Tharuli Sehansa",
-      "rank": 36,
-      "wins": 1,
+      "rank": 29,
+      "wins": 2,
       "losses": 1,
       "ties": 0,
-      "spread": -28,
+      "spread": 11,
       "games": [
         {
           "round": 1,
@@ -536,6 +705,15 @@
           "score": 298,
           "oppScore": 471,
           "spread": -173
+        },
+        {
+          "round": 3,
+          "opponentId": "C54",
+          "opponentName": "DE SILVA, THEEKSHANA",
+          "result": "W",
+          "score": 374,
+          "oppScore": 335,
+          "spread": 39
         }
       ],
       "rankHistory": [
@@ -546,17 +724,21 @@
         {
           "round": 2,
           "rank": 36
+        },
+        {
+          "round": 3,
+          "rank": 29
         }
       ]
     },
     "C63": {
       "id": "C63",
       "name": "Sivaganam Lashven",
-      "rank": 32,
+      "rank": 41,
       "wins": 1,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "spread": 10,
+      "spread": -144,
       "games": [
         {
           "round": 1,
@@ -575,6 +757,15 @@
           "score": 245,
           "oppScore": 373,
           "spread": -128
+        },
+        {
+          "round": 3,
+          "opponentId": "C43",
+          "opponentName": "George Arulnather Arulpracasiny",
+          "result": "L",
+          "score": 209,
+          "oppScore": 363,
+          "spread": -154
         }
       ],
       "rankHistory": [
@@ -585,17 +776,21 @@
         {
           "round": 2,
           "rank": 32
+        },
+        {
+          "round": 3,
+          "rank": 41
         }
       ]
     },
     "C12": {
       "id": "C12",
       "name": "Tusanda Gagana",
-      "rank": 15,
+      "rank": 24,
       "wins": 2,
-      "losses": 0,
+      "losses": 1,
       "ties": 0,
-      "spread": 128,
+      "spread": 123,
       "games": [
         {
           "round": 1,
@@ -614,6 +809,15 @@
           "score": 408,
           "oppScore": 397,
           "spread": 11
+        },
+        {
+          "round": 3,
+          "opponentId": "C62",
+          "opponentName": "NETHULA ABHINAW THANTHIRIGE",
+          "result": "L",
+          "score": 337,
+          "oppScore": 342,
+          "spread": -5
         }
       ],
       "rankHistory": [
@@ -624,17 +828,21 @@
         {
           "round": 2,
           "rank": 15
+        },
+        {
+          "round": 3,
+          "rank": 24
         }
       ]
     },
     "C13": {
       "id": "C13",
       "name": "Mathivannan Madhusha",
-      "rank": 40,
+      "rank": 49,
       "wins": 1,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "spread": -87,
+      "spread": -326,
       "games": [
         {
           "round": 1,
@@ -653,6 +861,15 @@
           "score": 231,
           "oppScore": 427,
           "spread": -196
+        },
+        {
+          "round": 3,
+          "opponentId": "C39",
+          "opponentName": "Galagama Thanuki",
+          "result": "L",
+          "score": 180,
+          "oppScore": 419,
+          "spread": -239
         }
       ],
       "rankHistory": [
@@ -663,17 +880,21 @@
         {
           "round": 2,
           "rank": 40
+        },
+        {
+          "round": 3,
+          "rank": 49
         }
       ]
     },
     "C42": {
       "id": "C42",
       "name": "Peiris, Risindi",
-      "rank": 29,
-      "wins": 1,
+      "rank": 21,
+      "wins": 2,
       "losses": 1,
       "ties": 0,
-      "spread": 37,
+      "spread": 184,
       "games": [
         {
           "round": 1,
@@ -692,6 +913,15 @@
           "score": 310,
           "oppScore": 379,
           "spread": -69
+        },
+        {
+          "round": 3,
+          "opponentId": "C18",
+          "opponentName": "SURAWEERA, VINUKA RANMETH",
+          "result": "W",
+          "score": 411,
+          "oppScore": 264,
+          "spread": 147
         }
       ],
       "rankHistory": [
@@ -702,17 +932,21 @@
         {
           "round": 2,
           "rank": 29
+        },
+        {
+          "round": 3,
+          "rank": 21
         }
       ]
     },
     "C21": {
       "id": "C21",
       "name": "Fernando Dinushka",
-      "rank": 34,
-      "wins": 1,
+      "rank": 20,
+      "wins": 2,
       "losses": 1,
       "ties": 0,
-      "spread": -7,
+      "spread": 185,
       "games": [
         {
           "round": 1,
@@ -731,6 +965,15 @@
           "score": 243,
           "oppScore": 351,
           "spread": -108
+        },
+        {
+          "round": 3,
+          "opponentId": "C61",
+          "opponentName": "Jenul Anusara",
+          "result": "W",
+          "score": 489,
+          "oppScore": 297,
+          "spread": 192
         }
       ],
       "rankHistory": [
@@ -741,17 +984,21 @@
         {
           "round": 2,
           "rank": 34
+        },
+        {
+          "round": 3,
+          "rank": 20
         }
       ]
     },
     "C25": {
       "id": "C25",
       "name": "Sanuli Sehansa",
-      "rank": 27,
-      "wins": 1,
+      "rank": 18,
+      "wins": 2,
       "losses": 1,
       "ties": 0,
-      "spread": 76,
+      "spread": 212,
       "games": [
         {
           "round": 1,
@@ -770,6 +1017,15 @@
           "score": 315,
           "oppScore": 339,
           "spread": -24
+        },
+        {
+          "round": 3,
+          "opponentId": "C37",
+          "opponentName": "Pathiraja, Ravindu",
+          "result": "W",
+          "score": 311,
+          "oppScore": 175,
+          "spread": 136
         }
       ],
       "rankHistory": [
@@ -780,17 +1036,21 @@
         {
           "round": 2,
           "rank": 27
+        },
+        {
+          "round": 3,
+          "rank": 18
         }
       ]
     },
     "C26": {
       "id": "C26",
       "name": "Perera Limandee",
-      "rank": 16,
-      "wins": 2,
+      "rank": 8,
+      "wins": 3,
       "losses": 0,
       "ties": 0,
-      "spread": 76,
+      "spread": 87,
       "games": [
         {
           "round": 1,
@@ -809,6 +1069,15 @@
           "score": 338,
           "oppScore": 326,
           "spread": 12
+        },
+        {
+          "round": 3,
+          "opponentId": "C5",
+          "opponentName": "Rashmera Mahabage, Dimitri",
+          "result": "W",
+          "score": 371,
+          "oppScore": 360,
+          "spread": 11
         }
       ],
       "rankHistory": [
@@ -819,17 +1088,21 @@
         {
           "round": 2,
           "rank": 16
+        },
+        {
+          "round": 3,
+          "rank": 8
         }
       ]
     },
     "C55": {
       "id": "C55",
       "name": "Sarath Gunawardena",
-      "rank": 30,
-      "wins": 1,
+      "rank": 27,
+      "wins": 2,
       "losses": 1,
       "ties": 0,
-      "spread": 30,
+      "spread": 78,
       "games": [
         {
           "round": 1,
@@ -848,6 +1121,15 @@
           "score": 399,
           "oppScore": 429,
           "spread": -30
+        },
+        {
+          "round": 3,
+          "opponentId": "C27",
+          "opponentName": "Perera Sithumdee",
+          "result": "W",
+          "score": 400,
+          "oppScore": 352,
+          "spread": 48
         }
       ],
       "rankHistory": [
@@ -858,17 +1140,21 @@
         {
           "round": 2,
           "rank": 30
+        },
+        {
+          "round": 3,
+          "rank": 27
         }
       ]
     },
     "C44": {
       "id": "C44",
       "name": "PATHIRAGE DON DANIDU",
-      "rank": 9,
+      "rank": 23,
       "wins": 2,
-      "losses": 0,
+      "losses": 1,
       "ties": 0,
-      "spread": 245,
+      "spread": 155,
       "games": [
         {
           "round": 1,
@@ -887,6 +1173,15 @@
           "score": 463,
           "oppScore": 277,
           "spread": 186
+        },
+        {
+          "round": 3,
+          "opponentId": "C45",
+          "opponentName": "Paranagama Udani",
+          "result": "L",
+          "score": 340,
+          "oppScore": 430,
+          "spread": -90
         }
       ],
       "rankHistory": [
@@ -897,17 +1192,21 @@
         {
           "round": 2,
           "rank": 9
+        },
+        {
+          "round": 3,
+          "rank": 23
         }
       ]
     },
     "C27": {
       "id": "C27",
       "name": "Perera Sithumdee",
-      "rank": 45,
+      "rank": 46,
       "wins": 1,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "spread": -197,
+      "spread": -245,
       "games": [
         {
           "round": 1,
@@ -926,6 +1225,15 @@
           "score": 257,
           "oppScore": 510,
           "spread": -253
+        },
+        {
+          "round": 3,
+          "opponentId": "C55",
+          "opponentName": "Sarath Gunawardena",
+          "result": "L",
+          "score": 352,
+          "oppScore": 400,
+          "spread": -48
         }
       ],
       "rankHistory": [
@@ -936,17 +1244,21 @@
         {
           "round": 2,
           "rank": 45
+        },
+        {
+          "round": 3,
+          "rank": 46
         }
       ]
     },
     "C24": {
       "id": "C24",
       "name": "Dinesh Jaashwin",
-      "rank": 44,
+      "rank": 54,
       "wins": 1,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "spread": -184,
+      "spread": -521,
       "games": [
         {
           "round": 1,
@@ -965,6 +1277,15 @@
           "score": 170,
           "oppScore": 394,
           "spread": -224
+        },
+        {
+          "round": 3,
+          "opponentId": "C35",
+          "opponentName": "MADHUJITH PASINDU",
+          "result": "L",
+          "score": 183,
+          "oppScore": 520,
+          "spread": -337
         }
       ],
       "rankHistory": [
@@ -975,17 +1296,21 @@
         {
           "round": 2,
           "rank": 44
+        },
+        {
+          "round": 3,
+          "rank": 54
         }
       ]
     },
     "C36": {
       "id": "C36",
       "name": "AMADINI PERERA, NETHARA",
-      "rank": 33,
+      "rank": 43,
       "wins": 1,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "spread": -2,
+      "spread": -165,
       "games": [
         {
           "round": 1,
@@ -1004,6 +1329,15 @@
           "score": 440,
           "oppScore": 479,
           "spread": -39
+        },
+        {
+          "round": 3,
+          "opponentId": "C59",
+          "opponentName": "Jordyn Atarah Roshan",
+          "result": "L",
+          "score": 243,
+          "oppScore": 406,
+          "spread": -163
         }
       ],
       "rankHistory": [
@@ -1014,17 +1348,21 @@
         {
           "round": 2,
           "rank": 33
+        },
+        {
+          "round": 3,
+          "rank": 43
         }
       ]
     },
     "C49": {
       "id": "C49",
       "name": "Kumarapperuma Shone",
-      "rank": 38,
+      "rank": 39,
       "wins": 1,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "spread": -73,
+      "spread": -87,
       "games": [
         {
           "round": 1,
@@ -1043,6 +1381,15 @@
           "score": 327,
           "oppScore": 435,
           "spread": -108
+        },
+        {
+          "round": 3,
+          "opponentId": "C46",
+          "opponentName": "Chirani Dissanayake",
+          "result": "L",
+          "score": 255,
+          "oppScore": 269,
+          "spread": -14
         }
       ],
       "rankHistory": [
@@ -1053,17 +1400,21 @@
         {
           "round": 2,
           "rank": 38
+        },
+        {
+          "round": 3,
+          "rank": 39
         }
       ]
     },
     "C60": {
       "id": "C60",
       "name": "Jithum Githsara",
-      "rank": 46,
+      "rank": 53,
       "wins": 1,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "spread": -363,
+      "spread": -401,
       "games": [
         {
           "round": 1,
@@ -1082,6 +1433,15 @@
           "score": 223,
           "oppScore": 620,
           "spread": -397
+        },
+        {
+          "round": 3,
+          "opponentId": "C64",
+          "opponentName": "Vinuji Videwma",
+          "result": "L",
+          "score": 186,
+          "oppScore": 224,
+          "spread": -38
         }
       ],
       "rankHistory": [
@@ -1092,17 +1452,21 @@
         {
           "round": 2,
           "rank": 46
+        },
+        {
+          "round": 3,
+          "rank": 53
         }
       ]
     },
     "C5": {
       "id": "C5",
       "name": "Rashmera Mahabage, Dimitri",
-      "rank": 8,
+      "rank": 16,
       "wins": 2,
-      "losses": 0,
+      "losses": 1,
       "ties": 0,
-      "spread": 252,
+      "spread": 241,
       "games": [
         {
           "round": 1,
@@ -1121,6 +1485,15 @@
           "score": 394,
           "oppScore": 170,
           "spread": 224
+        },
+        {
+          "round": 3,
+          "opponentId": "C26",
+          "opponentName": "Perera Limandee",
+          "result": "L",
+          "score": 360,
+          "oppScore": 371,
+          "spread": -11
         }
       ],
       "rankHistory": [
@@ -1131,17 +1504,21 @@
         {
           "round": 2,
           "rank": 8
+        },
+        {
+          "round": 3,
+          "rank": 16
         }
       ]
     },
     "C8": {
       "id": "C8",
       "name": "Rajapaksha, Tharinda",
-      "rank": 14,
-      "wins": 2,
+      "rank": 2,
+      "wins": 3,
       "losses": 0,
       "ties": 0,
-      "spread": 197,
+      "spread": 489,
       "games": [
         {
           "round": 1,
@@ -1160,6 +1537,15 @@
           "score": 471,
           "oppScore": 298,
           "spread": 173
+        },
+        {
+          "round": 3,
+          "opponentId": "C19",
+          "opponentName": "THIRIMANNA, ONADITH",
+          "result": "W",
+          "score": 461,
+          "oppScore": 169,
+          "spread": 292
         }
       ],
       "rankHistory": [
@@ -1170,17 +1556,21 @@
         {
           "round": 2,
           "rank": 14
+        },
+        {
+          "round": 3,
+          "rank": 2
         }
       ]
     },
     "C4": {
       "id": "C4",
       "name": "RUMI REYAL HAJARA",
-      "rank": 37,
-      "wins": 1,
+      "rank": 28,
+      "wins": 2,
       "losses": 1,
       "ties": 0,
-      "spread": -71,
+      "spread": 65,
       "games": [
         {
           "round": 1,
@@ -1199,6 +1589,15 @@
           "score": 321,
           "oppScore": 405,
           "spread": -84
+        },
+        {
+          "round": 3,
+          "opponentId": "C33",
+          "opponentName": "Wijesinghe Hansi",
+          "result": "W",
+          "score": 415,
+          "oppScore": 279,
+          "spread": 136
         }
       ],
       "rankHistory": [
@@ -1209,17 +1608,21 @@
         {
           "round": 2,
           "rank": 37
+        },
+        {
+          "round": 3,
+          "rank": 28
         }
       ]
     },
     "C32": {
       "id": "C32",
       "name": "DAMBURE LIYANAGE, INDUNI BAHUMANI",
-      "rank": 47,
-      "wins": 0,
+      "rank": 31,
+      "wins": 1,
       "losses": 2,
       "ties": 0,
-      "spread": -24,
+      "spread": 174,
       "games": [
         {
           "round": 1,
@@ -1238,6 +1641,15 @@
           "score": 397,
           "oppScore": 408,
           "spread": -11
+        },
+        {
+          "round": 3,
+          "opponentId": "C1",
+          "opponentName": "Dasanayake Ranugi",
+          "result": "W",
+          "score": 419,
+          "oppScore": 221,
+          "spread": 198
         }
       ],
       "rankHistory": [
@@ -1248,17 +1660,21 @@
         {
           "round": 2,
           "rank": 47
+        },
+        {
+          "round": 3,
+          "rank": 31
         }
       ]
     },
     "C41": {
       "id": "C41",
       "name": "Thiyasara Akitha Mudiyanselage Herath",
-      "rank": 48,
+      "rank": 55,
       "wins": 0,
-      "losses": 2,
+      "losses": 3,
       "ties": 0,
-      "spread": -33,
+      "spread": -91,
       "games": [
         {
           "round": 1,
@@ -1277,6 +1693,15 @@
           "score": 349,
           "oppScore": 358,
           "spread": -9
+        },
+        {
+          "round": 3,
+          "opponentId": "C11",
+          "opponentName": "Rayellie Perera",
+          "result": "L",
+          "score": 283,
+          "oppScore": 341,
+          "spread": -58
         }
       ],
       "rankHistory": [
@@ -1287,17 +1712,21 @@
         {
           "round": 2,
           "rank": 48
+        },
+        {
+          "round": 3,
+          "rank": 55
         }
       ]
     },
     "C43": {
       "id": "C43",
       "name": "George Arulnather Arulpracasiny",
-      "rank": 19,
-      "wins": 1,
+      "rank": 13,
+      "wins": 2,
       "losses": 1,
       "ties": 0,
-      "spread": 188,
+      "spread": 342,
       "games": [
         {
           "round": 1,
@@ -1316,6 +1745,15 @@
           "score": 464,
           "oppScore": 248,
           "spread": 216
+        },
+        {
+          "round": 3,
+          "opponentId": "C63",
+          "opponentName": "Sivaganam Lashven",
+          "result": "W",
+          "score": 363,
+          "oppScore": 209,
+          "spread": 154
         }
       ],
       "rankHistory": [
@@ -1326,17 +1764,21 @@
         {
           "round": 2,
           "rank": 19
+        },
+        {
+          "round": 3,
+          "rank": 13
         }
       ]
     },
     "C30": {
       "id": "C30",
       "name": "Inaah Muhaiyatheen",
-      "rank": 35,
+      "rank": 52,
       "wins": 1,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "spread": -17,
+      "spread": -372,
       "games": [
         {
           "round": 1,
@@ -1355,6 +1797,15 @@
           "score": 208,
           "oppScore": 191,
           "spread": 17
+        },
+        {
+          "round": 3,
+          "opponentId": "C6",
+          "opponentName": "KALHARI, LAKSHIKA",
+          "result": "L",
+          "score": 139,
+          "oppScore": 494,
+          "spread": -355
         }
       ],
       "rankHistory": [
@@ -1365,17 +1816,21 @@
         {
           "round": 2,
           "rank": 35
+        },
+        {
+          "round": 3,
+          "rank": 52
         }
       ]
     },
     "C64": {
       "id": "C64",
       "name": "Vinuji Videwma",
-      "rank": 57,
-      "wins": 0,
+      "rank": 48,
+      "wins": 1,
       "losses": 2,
       "ties": 0,
-      "spread": -343,
+      "spread": -305,
       "games": [
         {
           "round": 1,
@@ -1394,6 +1849,15 @@
           "score": 190,
           "oppScore": 498,
           "spread": -308
+        },
+        {
+          "round": 3,
+          "opponentId": "C60",
+          "opponentName": "Jithum Githsara",
+          "result": "W",
+          "score": 224,
+          "oppScore": 186,
+          "spread": 38
         }
       ],
       "rankHistory": [
@@ -1404,17 +1868,21 @@
         {
           "round": 2,
           "rank": 57
+        },
+        {
+          "round": 3,
+          "rank": 48
         }
       ]
     },
     "C33": {
       "id": "C33",
       "name": "Wijesinghe Hansi",
-      "rank": 22,
+      "rank": 33,
       "wins": 1,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "spread": 177,
+      "spread": 41,
       "games": [
         {
           "round": 1,
@@ -1433,6 +1901,15 @@
           "score": 456,
           "oppScore": 242,
           "spread": 214
+        },
+        {
+          "round": 3,
+          "opponentId": "C4",
+          "opponentName": "RUMI REYAL HAJARA",
+          "result": "L",
+          "score": 279,
+          "oppScore": 415,
+          "spread": -136
         }
       ],
       "rankHistory": [
@@ -1443,13 +1920,17 @@
         {
           "round": 2,
           "rank": 22
+        },
+        {
+          "round": 3,
+          "rank": 33
         }
       ]
     },
     "C2": {
       "id": "C2",
       "name": "Zohair Jamila",
-      "rank": 28,
+      "rank": 34,
       "wins": 1,
       "losses": 1,
       "ties": 0,
@@ -1482,17 +1963,21 @@
         {
           "round": 2,
           "rank": 28
+        },
+        {
+          "round": 3,
+          "rank": 34
         }
       ]
     },
     "C35": {
       "id": "C35",
       "name": "MADHUJITH PASINDU",
-      "rank": 17,
-      "wins": 1,
+      "rank": 9,
+      "wins": 2,
       "losses": 1,
       "ties": 0,
-      "spread": 263,
+      "spread": 600,
       "games": [
         {
           "round": 1,
@@ -1511,6 +1996,15 @@
           "score": 472,
           "oppScore": 153,
           "spread": 319
+        },
+        {
+          "round": 3,
+          "opponentId": "C24",
+          "opponentName": "Dinesh Jaashwin",
+          "result": "W",
+          "score": 520,
+          "oppScore": 183,
+          "spread": 337
         }
       ],
       "rankHistory": [
@@ -1521,17 +2015,21 @@
         {
           "round": 2,
           "rank": 17
+        },
+        {
+          "round": 3,
+          "rank": 9
         }
       ]
     },
     "C31": {
       "id": "C31",
       "name": "Fernando Senal",
-      "rank": 53,
-      "wins": 0,
+      "rank": 35,
+      "wins": 1,
       "losses": 2,
       "ties": 0,
-      "spread": -158,
+      "spread": -3,
       "games": [
         {
           "round": 1,
@@ -1550,6 +2048,15 @@
           "score": 272,
           "oppScore": 371,
           "spread": -99
+        },
+        {
+          "round": 3,
+          "opponentId": "C23",
+          "opponentName": "Jayasuriya Arachchige, Devhara",
+          "result": "W",
+          "score": 411,
+          "oppScore": 256,
+          "spread": 155
         }
       ],
       "rankHistory": [
@@ -1560,17 +2067,21 @@
         {
           "round": 2,
           "rank": 53
+        },
+        {
+          "round": 3,
+          "rank": 35
         }
       ]
     },
     "C54": {
       "id": "C54",
       "name": "DE SILVA, THEEKSHANA",
-      "rank": 21,
+      "rank": 32,
       "wins": 1,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "spread": 184,
+      "spread": 145,
       "games": [
         {
           "round": 1,
@@ -1589,6 +2100,15 @@
           "score": 468,
           "oppScore": 224,
           "spread": 244
+        },
+        {
+          "round": 3,
+          "opponentId": "C40",
+          "opponentName": "Tharuli Sehansa",
+          "result": "L",
+          "score": 335,
+          "oppScore": 374,
+          "spread": -39
         }
       ],
       "rankHistory": [
@@ -1599,17 +2119,21 @@
         {
           "round": 2,
           "rank": 21
+        },
+        {
+          "round": 3,
+          "rank": 32
         }
       ]
     },
     "C51": {
       "id": "C51",
       "name": "GUNASEKERA ERAN",
-      "rank": 23,
-      "wins": 1,
+      "rank": 15,
+      "wins": 2,
       "losses": 1,
       "ties": 0,
-      "spread": 170,
+      "spread": 250,
       "games": [
         {
           "round": 1,
@@ -1628,6 +2152,15 @@
           "score": 416,
           "oppScore": 182,
           "spread": 234
+        },
+        {
+          "round": 3,
+          "opponentId": "C17",
+          "opponentName": "Younus Careem Mohamed",
+          "result": "W",
+          "score": 417,
+          "oppScore": 337,
+          "spread": 80
         }
       ],
       "rankHistory": [
@@ -1638,13 +2171,17 @@
         {
           "round": 2,
           "rank": 23
+        },
+        {
+          "round": 3,
+          "rank": 15
         }
       ]
     },
     "C48": {
       "id": "C48",
       "name": "INDIRA ADIKARA AKEIN",
-      "rank": 49,
+      "rank": 56,
       "wins": 0,
       "losses": 0,
       "ties": 0,
@@ -1658,13 +2195,17 @@
         {
           "round": 2,
           "rank": 49
+        },
+        {
+          "round": 3,
+          "rank": 56
         }
       ]
     },
     "C28": {
       "id": "C28",
       "name": "Rithikshan Pathmaraja",
-      "rank": 49,
+      "rank": 56,
       "wins": 0,
       "losses": 0,
       "ties": 0,
@@ -1678,13 +2219,17 @@
         {
           "round": 2,
           "rank": 49
+        },
+        {
+          "round": 3,
+          "rank": 56
         }
       ]
     },
     "C34": {
       "id": "C34",
       "name": "Jayasekera Lahan",
-      "rank": 49,
+      "rank": 56,
       "wins": 0,
       "losses": 0,
       "ties": 0,
@@ -1698,13 +2243,17 @@
         {
           "round": 2,
           "rank": 49
+        },
+        {
+          "round": 3,
+          "rank": 56
         }
       ]
     },
     "C7": {
       "id": "C7",
       "name": "Kendaragama, Risara",
-      "rank": 55,
+      "rank": 59,
       "wins": 0,
       "losses": 2,
       "ties": 0,
@@ -1737,17 +2286,21 @@
         {
           "round": 2,
           "rank": 55
+        },
+        {
+          "round": 3,
+          "rank": 59
         }
       ]
     },
     "C58": {
       "id": "C58",
       "name": "Mohamed Firdhouse",
-      "rank": 26,
-      "wins": 1,
+      "rank": 17,
+      "wins": 2,
       "losses": 1,
       "ties": 0,
-      "spread": 108,
+      "spread": 227,
       "games": [
         {
           "round": 1,
@@ -1766,6 +2319,15 @@
           "score": 458,
           "oppScore": 249,
           "spread": 209
+        },
+        {
+          "round": 3,
+          "opponentId": "C29",
+          "opponentName": "Rodrigo, Diyon",
+          "result": "W",
+          "score": 426,
+          "oppScore": 307,
+          "spread": 119
         }
       ],
       "rankHistory": [
@@ -1776,17 +2338,21 @@
         {
           "round": 2,
           "rank": 26
+        },
+        {
+          "round": 3,
+          "rank": 17
         }
       ]
     },
     "C59": {
       "id": "C59",
       "name": "Jordyn Atarah Roshan",
-      "rank": 18,
-      "wins": 1,
+      "rank": 10,
+      "wins": 2,
       "losses": 1,
       "ties": 0,
-      "spread": 246,
+      "spread": 409,
       "games": [
         {
           "round": 1,
@@ -1805,6 +2371,15 @@
           "score": 511,
           "oppScore": 159,
           "spread": 352
+        },
+        {
+          "round": 3,
+          "opponentId": "C36",
+          "opponentName": "AMADINI PERERA, NETHARA",
+          "result": "W",
+          "score": 406,
+          "oppScore": 243,
+          "spread": 163
         }
       ],
       "rankHistory": [
@@ -1815,17 +2390,21 @@
         {
           "round": 2,
           "rank": 18
+        },
+        {
+          "round": 3,
+          "rank": 10
         }
       ]
     },
     "C20": {
       "id": "C20",
       "name": "KANNAN RISHVIKA",
-      "rank": 52,
-      "wins": 0,
+      "rank": 40,
+      "wins": 1,
       "losses": 2,
       "ties": 0,
-      "spread": -153,
+      "spread": -112,
       "games": [
         {
           "round": 1,
@@ -1844,6 +2423,15 @@
           "score": 258,
           "oppScore": 302,
           "spread": -44
+        },
+        {
+          "round": 3,
+          "opponentId": "C10",
+          "opponentName": "Makaarim, Aina",
+          "result": "W",
+          "score": 254,
+          "oppScore": 213,
+          "spread": 41
         }
       ],
       "rankHistory": [
@@ -1854,17 +2442,21 @@
         {
           "round": 2,
           "rank": 52
+        },
+        {
+          "round": 3,
+          "rank": 40
         }
       ]
     },
     "C17": {
       "id": "C17",
       "name": "Younus Careem Mohamed",
-      "rank": 38,
+      "rank": 42,
       "wins": 1,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "spread": -73,
+      "spread": -153,
       "games": [
         {
           "round": 1,
@@ -1883,6 +2475,15 @@
           "score": 302,
           "oppScore": 258,
           "spread": 44
+        },
+        {
+          "round": 3,
+          "opponentId": "C51",
+          "opponentName": "GUNASEKERA ERAN",
+          "result": "L",
+          "score": 337,
+          "oppScore": 417,
+          "spread": -80
         }
       ],
       "rankHistory": [
@@ -1893,17 +2494,21 @@
         {
           "round": 2,
           "rank": 38
+        },
+        {
+          "round": 3,
+          "rank": 42
         }
       ]
     },
     "C18": {
       "id": "C18",
       "name": "SURAWEERA, VINUKA RANMETH",
-      "rank": 43,
+      "rank": 47,
       "wins": 1,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "spread": -129,
+      "spread": -276,
       "games": [
         {
           "round": 1,
@@ -1922,6 +2527,15 @@
           "score": 358,
           "oppScore": 349,
           "spread": 9
+        },
+        {
+          "round": 3,
+          "opponentId": "C42",
+          "opponentName": "Peiris, Risindi",
+          "result": "L",
+          "score": 264,
+          "oppScore": 411,
+          "spread": -147
         }
       ],
       "rankHistory": [
@@ -1932,17 +2546,21 @@
         {
           "round": 2,
           "rank": 43
+        },
+        {
+          "round": 3,
+          "rank": 47
         }
       ]
     },
     "C47": {
       "id": "C47",
       "name": "HASNA HAYASDEEN",
-      "rank": 58,
+      "rank": 60,
       "wins": 0,
-      "losses": 2,
+      "losses": 3,
       "ties": 0,
-      "spread": -361,
+      "spread": -408,
       "games": [
         {
           "round": 1,
@@ -1961,6 +2579,15 @@
           "score": 248,
           "oppScore": 464,
           "spread": -216
+        },
+        {
+          "round": 3,
+          "opponentId": "C52",
+          "opponentName": "SAHANYA GANEGODA DINITHI",
+          "result": "L",
+          "score": 158,
+          "oppScore": 205,
+          "spread": -47
         }
       ],
       "rankHistory": [
@@ -1971,17 +2598,21 @@
         {
           "round": 2,
           "rank": 58
+        },
+        {
+          "round": 3,
+          "rank": 60
         }
       ]
     },
     "C50": {
       "id": "C50",
       "name": "Wijekoon W. H. M. Sithula",
-      "rank": 54,
-      "wins": 0,
+      "rank": 38,
+      "wins": 1,
       "losses": 2,
       "ties": 0,
-      "spread": -164,
+      "spread": -69,
       "games": [
         {
           "round": 1,
@@ -2000,6 +2631,15 @@
           "score": 191,
           "oppScore": 208,
           "spread": -17
+        },
+        {
+          "round": 3,
+          "opponentId": "C15",
+          "opponentName": "Kuruvitaarachchi Sasen",
+          "result": "W",
+          "score": 319,
+          "oppScore": 224,
+          "spread": 95
         }
       ],
       "rankHistory": [
@@ -2010,17 +2650,21 @@
         {
           "round": 2,
           "rank": 54
+        },
+        {
+          "round": 3,
+          "rank": 38
         }
       ]
     },
     "C46": {
       "id": "C46",
       "name": "Chirani Dissanayake",
-      "rank": 24,
-      "wins": 1,
+      "rank": 22,
+      "wins": 2,
       "losses": 1,
       "ties": 0,
-      "spread": 150,
+      "spread": 164,
       "games": [
         {
           "round": 1,
@@ -2039,6 +2683,15 @@
           "score": 498,
           "oppScore": 190,
           "spread": 308
+        },
+        {
+          "round": 3,
+          "opponentId": "C49",
+          "opponentName": "Kumarapperuma Shone",
+          "result": "W",
+          "score": 269,
+          "oppScore": 255,
+          "spread": 14
         }
       ],
       "rankHistory": [
@@ -2049,17 +2702,21 @@
         {
           "round": 2,
           "rank": 24
+        },
+        {
+          "round": 3,
+          "rank": 22
         }
       ]
     },
     "C39": {
       "id": "C39",
       "name": "Galagama Thanuki",
-      "rank": 25,
-      "wins": 1,
+      "rank": 12,
+      "wins": 2,
       "losses": 1,
       "ties": 0,
-      "spread": 121,
+      "spread": 360,
       "games": [
         {
           "round": 1,
@@ -2078,6 +2735,15 @@
           "score": 495,
           "oppScore": 211,
           "spread": 284
+        },
+        {
+          "round": 3,
+          "opponentId": "C13",
+          "opponentName": "Mathivannan Madhusha",
+          "result": "W",
+          "score": 419,
+          "oppScore": 180,
+          "spread": 239
         }
       ],
       "rankHistory": [
@@ -2088,17 +2754,21 @@
         {
           "round": 2,
           "rank": 25
+        },
+        {
+          "round": 3,
+          "rank": 12
         }
       ]
     },
     "C52": {
       "id": "C52",
       "name": "SAHANYA GANEGODA DINITHI",
-      "rank": 59,
-      "wins": 0,
+      "rank": 50,
+      "wins": 1,
       "losses": 2,
       "ties": 0,
-      "spread": -386,
+      "spread": -339,
       "games": [
         {
           "round": 1,
@@ -2117,6 +2787,15 @@
           "score": 242,
           "oppScore": 456,
           "spread": -214
+        },
+        {
+          "round": 3,
+          "opponentId": "C47",
+          "opponentName": "HASNA HAYASDEEN",
+          "result": "W",
+          "score": 205,
+          "oppScore": 158,
+          "spread": 47
         }
       ],
       "rankHistory": [
@@ -2127,17 +2806,21 @@
         {
           "round": 2,
           "rank": 59
+        },
+        {
+          "round": 3,
+          "rank": 50
         }
       ]
     },
     "C38": {
       "id": "C38",
       "name": "RANAWEERAGE SHEHAN KEERTHI",
-      "rank": 56,
-      "wins": 0,
+      "rank": 37,
+      "wins": 1,
       "losses": 2,
       "ties": 0,
-      "spread": -300,
+      "spread": -62,
       "games": [
         {
           "round": 1,
@@ -2156,6 +2839,15 @@
           "score": 328,
           "oppScore": 441,
           "spread": -113
+        },
+        {
+          "round": 3,
+          "opponentId": "C56",
+          "opponentName": "Zaydha Zaif",
+          "result": "W",
+          "score": 417,
+          "oppScore": 179,
+          "spread": 238
         }
       ],
       "rankHistory": [
@@ -2166,17 +2858,21 @@
         {
           "round": 2,
           "rank": 56
+        },
+        {
+          "round": 3,
+          "rank": 37
         }
       ]
     },
     "C29": {
       "id": "C29",
       "name": "Rodrigo, Diyon",
-      "rank": 41,
+      "rank": 44,
       "wins": 1,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "spread": -88,
+      "spread": -207,
       "games": [
         {
           "round": 1,
@@ -2195,6 +2891,15 @@
           "score": 371,
           "oppScore": 272,
           "spread": 99
+        },
+        {
+          "round": 3,
+          "opponentId": "C58",
+          "opponentName": "Mohamed Firdhouse",
+          "result": "L",
+          "score": 307,
+          "oppScore": 426,
+          "spread": -119
         }
       ],
       "rankHistory": [
@@ -2205,17 +2910,21 @@
         {
           "round": 2,
           "rank": 41
+        },
+        {
+          "round": 3,
+          "rank": 44
         }
       ]
     },
     "C1": {
       "id": "C1",
       "name": "Dasanayake Ranugi",
-      "rank": 63,
+      "rank": 64,
       "wins": 0,
-      "losses": 2,
+      "losses": 3,
       "ties": 0,
-      "spread": -477,
+      "spread": -675,
       "games": [
         {
           "round": 1,
@@ -2234,6 +2943,15 @@
           "score": 211,
           "oppScore": 495,
           "spread": -284
+        },
+        {
+          "round": 3,
+          "opponentId": "C32",
+          "opponentName": "DAMBURE LIYANAGE, INDUNI BAHUMANI",
+          "result": "L",
+          "score": 221,
+          "oppScore": 419,
+          "spread": -198
         }
       ],
       "rankHistory": [
@@ -2244,17 +2962,21 @@
         {
           "round": 2,
           "rank": 63
+        },
+        {
+          "round": 3,
+          "rank": 64
         }
       ]
     },
     "C11": {
       "id": "C11",
       "name": "Rayellie Perera",
-      "rank": 60,
-      "wins": 0,
+      "rank": 51,
+      "wins": 1,
       "losses": 2,
       "ties": 0,
-      "spread": -409,
+      "spread": -351,
       "games": [
         {
           "round": 1,
@@ -2273,6 +2995,15 @@
           "score": 249,
           "oppScore": 458,
           "spread": -209
+        },
+        {
+          "round": 3,
+          "opponentId": "C41",
+          "opponentName": "Thiyasara Akitha Mudiyanselage Herath",
+          "result": "W",
+          "score": 341,
+          "oppScore": 283,
+          "spread": 58
         }
       ],
       "rankHistory": [
@@ -2283,17 +3014,21 @@
         {
           "round": 2,
           "rank": 60
+        },
+        {
+          "round": 3,
+          "rank": 51
         }
       ]
     },
     "C37": {
       "id": "C37",
       "name": "Pathiraja, Ravindu",
-      "rank": 42,
+      "rank": 45,
       "wins": 1,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "spread": -100,
+      "spread": -236,
       "games": [
         {
           "round": 1,
@@ -2312,6 +3047,15 @@
           "score": 200,
           "oppScore": 100,
           "spread": 100
+        },
+        {
+          "round": 3,
+          "opponentId": "C25",
+          "opponentName": "Sanuli Sehansa",
+          "result": "L",
+          "score": 175,
+          "oppScore": 311,
+          "spread": -136
         }
       ],
       "rankHistory": [
@@ -2322,17 +3066,21 @@
         {
           "round": 2,
           "rank": 42
+        },
+        {
+          "round": 3,
+          "rank": 45
         }
       ]
     },
     "C15": {
       "id": "C15",
       "name": "Kuruvitaarachchi Sasen",
-      "rank": 64,
+      "rank": 63,
       "wins": 0,
-      "losses": 2,
+      "losses": 3,
       "ties": 0,
-      "spread": -519,
+      "spread": -614,
       "games": [
         {
           "round": 1,
@@ -2351,6 +3099,15 @@
           "score": 153,
           "oppScore": 472,
           "spread": -319
+        },
+        {
+          "round": 3,
+          "opponentId": "C50",
+          "opponentName": "Wijekoon W. H. M. Sithula",
+          "result": "L",
+          "score": 224,
+          "oppScore": 319,
+          "spread": -95
         }
       ],
       "rankHistory": [
@@ -2361,6 +3118,10 @@
         {
           "round": 2,
           "rank": 64
+        },
+        {
+          "round": 3,
+          "rank": 63
         }
       ]
     },
@@ -2369,9 +3130,9 @@
       "name": "Jayasuriya Arachchige, Devhara",
       "rank": 62,
       "wins": 0,
-      "losses": 2,
+      "losses": 3,
       "ties": 0,
-      "spread": -444,
+      "spread": -599,
       "games": [
         {
           "round": 1,
@@ -2390,6 +3151,15 @@
           "score": 224,
           "oppScore": 468,
           "spread": -244
+        },
+        {
+          "round": 3,
+          "opponentId": "C31",
+          "opponentName": "Fernando Senal",
+          "result": "L",
+          "score": 256,
+          "oppScore": 411,
+          "spread": -155
         }
       ],
       "rankHistory": [
@@ -2400,6 +3170,10 @@
         {
           "round": 2,
           "rank": 62
+        },
+        {
+          "round": 3,
+          "rank": 62
         }
       ]
     },
@@ -2408,9 +3182,9 @@
       "name": "Makaarim, Aina",
       "rank": 61,
       "wins": 0,
-      "losses": 2,
+      "losses": 3,
       "ties": 0,
-      "spread": -434,
+      "spread": -475,
       "games": [
         {
           "round": 1,
@@ -2429,6 +3203,15 @@
           "score": 182,
           "oppScore": 416,
           "spread": -234
+        },
+        {
+          "round": 3,
+          "opponentId": "C20",
+          "opponentName": "KANNAN RISHVIKA",
+          "result": "L",
+          "score": 213,
+          "oppScore": 254,
+          "spread": -41
         }
       ],
       "rankHistory": [
@@ -2439,6 +3222,10 @@
         {
           "round": 2,
           "rank": 61
+        },
+        {
+          "round": 3,
+          "rank": 61
         }
       ]
     },
@@ -2447,9 +3234,9 @@
       "name": "Zaydha Zaif",
       "rank": 65,
       "wins": 0,
-      "losses": 2,
+      "losses": 3,
       "ties": 0,
-      "spread": -552,
+      "spread": -790,
       "games": [
         {
           "round": 1,
@@ -2468,6 +3255,15 @@
           "score": 159,
           "oppScore": 511,
           "spread": -352
+        },
+        {
+          "round": 3,
+          "opponentId": "C38",
+          "opponentName": "RANAWEERAGE SHEHAN KEERTHI",
+          "result": "L",
+          "score": 179,
+          "oppScore": 417,
+          "spread": -238
         }
       ],
       "rankHistory": [
@@ -2477,6 +3273,10 @@
         },
         {
           "round": 2,
+          "rank": 65
+        },
+        {
+          "round": 3,
           "rank": 65
         }
       ]
