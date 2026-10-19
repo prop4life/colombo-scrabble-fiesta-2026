@@ -1,6 +1,6 @@
 {
   "event": "plate",
-  "updated": "2026-10-18T14:56:59.021Z",
+  "updated": "2026-10-19T04:30:52.748Z",
   "latestRound": 7,
   "players": {
     "C62": {
@@ -4225,11 +4225,11 @@
     "C51": {
       "id": "C51",
       "name": "GUNASEKERA ERAN",
-      "rank": 15,
-      "wins": 4,
-      "losses": 2,
+      "rank": 30,
+      "wins": 3,
+      "losses": 3,
       "ties": 1,
-      "spread": 465,
+      "spread": 79,
       "games": [
         {
           "round": 1,
@@ -4289,10 +4289,10 @@
           "round": 7,
           "opponentId": "C58",
           "opponentName": "Mohamed Firdhouse",
-          "result": "W",
-          "score": 425,
-          "oppScore": 232,
-          "spread": 193
+          "result": "L",
+          "score": 232,
+          "oppScore": 425,
+          "spread": -193
         }
       ],
       "rankHistory": [
@@ -4322,7 +4322,7 @@
         },
         {
           "round": 7,
-          "rank": 15
+          "rank": 30
         }
       ]
     },
@@ -4508,11 +4508,11 @@
     "C58": {
       "id": "C58",
       "name": "Mohamed Firdhouse",
-      "rank": 30,
-      "wins": 3,
-      "losses": 3,
+      "rank": 15,
+      "wins": 4,
+      "losses": 2,
       "ties": 1,
-      "spread": 46,
+      "spread": 432,
       "games": [
         {
           "round": 1,
@@ -4572,10 +4572,10 @@
           "round": 7,
           "opponentId": "C51",
           "opponentName": "GUNASEKERA ERAN",
-          "result": "L",
-          "score": 232,
-          "oppScore": 425,
-          "spread": -193
+          "result": "W",
+          "score": 425,
+          "oppScore": 232,
+          "spread": 193
         }
       ],
       "rankHistory": [
@@ -4605,7 +4605,7 @@
         },
         {
           "round": 7,
-          "rank": 30
+          "rank": 15
         }
       ]
     },
